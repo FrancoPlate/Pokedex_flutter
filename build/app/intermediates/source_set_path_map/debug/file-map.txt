@@ -1,0 +1,14 @@
+com.example.flutter_pokemon.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Usuario\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_pokemon.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Usuario\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_pokemon.app-jetified-window-1.0.0-beta04-2 C:\Users\Usuario\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_pokemon.app-core-1.6.0-3 C:\Users\Usuario\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.flutter_pokemon.app-debug-4 E:\Proyectos\proyectos con flutter\flutter_pokemon\android\app\src\debug\res
+com.example.flutter_pokemon.app-main-5 E:\Proyectos\proyectos con flutter\flutter_pokemon\android\app\src\main\res
+com.example.flutter_pokemon.app-pngs-6 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\generated\res\pngs\debug
+com.example.flutter_pokemon.app-resValues-7 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\generated\res\resValues\debug
+com.example.flutter_pokemon.app-rs-8 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\generated\res\rs\debug
+com.example.flutter_pokemon.app-mergeDebugResources-9 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_pokemon.app-mergeDebugResources-10 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_pokemon.app-merged_res-11 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\app\intermediates\merged_res\debug
+com.example.flutter_pokemon.app-packaged_res-12 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\path_provider_android\intermediates\packaged_res\debug
+com.example.flutter_pokemon.app-packaged_res-13 E:\Proyectos\proyectos con flutter\flutter_pokemon\build\sqflite\intermediates\packaged_res\debug
